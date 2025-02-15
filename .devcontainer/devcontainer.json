@@ -1,0 +1,11 @@
+{
+    // Name this configuration
+    "name": "Codesapce AI",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
